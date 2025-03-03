@@ -1,7 +1,7 @@
 
 # Midterm Lab Task 1 - Data Cleaning and Preparation using Excel
-For this task we are given a Flat data from Excel (See raw file) and we are Task to perform Data Cleaning and Preparation 
-## Data Cleaning process
+For this task, we are given Flat data from Excel (See raw file) and we are Task to perform Data Cleaning and Preparation 
+## Data Cleaning Process
 - Load the raw file
 - Fit Column and row width and height
 - TRIM extra spaces
