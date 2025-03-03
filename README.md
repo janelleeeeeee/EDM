@@ -1,7 +1,7 @@
 ## EDM-Portfolio-Janelle
 This portfolio will contain copies of my Enterprise Data Management Lab Exercises
 ## About Me
-Janelle Bognot is a dedicated college student pursuing a Bachelor of Science in Information Systems. She is passionate about technology and problem-solving, with a strong interest in data management, software development, and system analysis. Eager to learn and grow, she has worked on various projects to enhance her technical skills. Janelle is committed to developing her knowledge and preparing for future opportunities in the field of information systems.
+Hi, I’m Janelle Bognot, a BS Information Systems student. I am interested in technology and how it can be used to solve real-world problems. I’m eager to learn and gain practical experience in system development, data management, and IT solutions. Through my studies, I am developing skills in programming, database management, and project management. I am constantly searching for opportunities to grow, improve, and apply my knowledge in meaningful ways.
 ## Education
 - College: City College of Angeles (currently taking a BS in Information Systems)
 - Senior High School: Angeles City Senior High School (ABM)
