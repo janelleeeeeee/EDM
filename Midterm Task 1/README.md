@@ -15,5 +15,6 @@ For this task, we are given Flat data from Excel (See raw file) and we are Task 
 ## Here's the screenshot of my output before I started data cleaning (See screenshot)
 ![image](https://github.com/user-attachments/assets/b1c6abf2-162d-4c68-9602-68b045f75290)
 ## Here's the screenshot of my output after I started data Cleaning (See screenshot)
-![Sample Output](images/one.JPG)
+![image](https://github.com/janelleeeeeee/EDM/blob/ee526bb5ec04adb622556601c3f7d63114d6a558/Midterm%20Task%201/images/After.png)
 ## Here's the Physical Data Model
+![image](https://github.com/janelleeeeeee/EDM/blob/ee526bb5ec04adb622556601c3f7d63114d6a558/Midterm%20Task%201/images/Normalization.png)
