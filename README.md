@@ -7,5 +7,5 @@ This portfolio will contain copies of my Enterprise Data Management Lab Exercise
 - High School: Francisco G. Nepomuceno Memorial High School
 - Elementary: Angeles Elementary School
 ## Project Links
-- Midterm Lab Task 1 [Data Cleaning and Prep]
+- Midterm Lab Task 1 [Data Cleaning and Prep]()
 - Midterm Lab Task 2
