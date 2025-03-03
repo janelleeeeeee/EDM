@@ -13,7 +13,7 @@ For this task we are given a Flat data from Excel (See raw file) and we are Task
 - Perform 3 NF
 - Mapped the Normalized tables as a Physical Data Model
 ## Here's the screenshot of my output before I started data cleaning (See screenshot)
-![Sample Output](images/1.JPG)
+![Sample Output](images/before.JPG)
 ## Here's the screenshot of my output after I started data Cleaning (See screenshot)
-![Sample Output](images/1.JPG)
+![Sample Output](images/after.JPG)
 ## Here's the Physical Data Model
