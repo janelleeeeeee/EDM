@@ -11,9 +11,16 @@ For this task, we are given Flat data from Excel (See raw file) and we are Task 
 - Perform Table split using 2NF
 - Perform 3 NF
 - Mapped the Normalized tables as a Physical Data Model
-## Here's the screenshot of my output before I started data cleaning (See screenshot)
+## Here's the screenshot of my output before doing Cleaning and Transformation (See screenshot)
 ![Sample Output](images/Before.png)
-## Here's the screenshot of my output after I started data Cleaning (See screenshot)
+## Here's the screenshots of my final output (See screenshots)
+- Sal by Role Type
+![Sample Output](images/After.png)
+- Sal by Size
+![Sample Output](images/After.png)
+- Sal by Size Role Type
+![Sample Output](images/After.png)
+- Sal by State
 ![Sample Output](images/After.png)
 ## Here's the Physical Data Model
 ![Sample Output](images/Normalization.png)
