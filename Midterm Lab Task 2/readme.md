@@ -15,12 +15,12 @@ For this task, we are given Flat data from Excel (See raw file) and we are Task 
 ![Sample Output](images/Before.png)
 ## Here's the screenshots of my final output (See screenshots)
 - Sal by Role Type
-![Sample Output](images/ROLE TYPE.png)
+![Sample Output](images/Roletype.png)
 - Sal by Size
 ![Sample Output](images/SIZE.png)
 - Sal by Size Role Type
-![Sample Output](images/SIZE ROLE TYPE.png)
+![Sample Output](images/SizeRT.png)
 - Sal by State
 ![Sample Output](images/STATE.png)
 ## Here's the Physical Data Model
-![Sample Output](images/Normalization.png)
+![Sample Output](images/.png)
