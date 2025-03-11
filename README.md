@@ -9,4 +9,4 @@ Hi, I’m Janelle Bognot, a BS Information Systems student. I am interested in t
 - Elementary: Angeles Elementary School
 ## Project Links
 - Midterm Lab Task 1 [Data Cleaning and Preparation using EXCEL](Midterm%20Task%201/README.md)
-- Midterm Lab Task 2 [Data Cleaning and Preparation using POWER QUERY](Midterm%20Lab%20Task%202/readme.md)
+- Midterm Lab Task 2 [Data Cleaning and Transformation using POWER QUERY](Midterm%20Lab%20Task%202/readme.md)
