@@ -15,16 +15,23 @@ For this task, we are given raw data from Excel (Uncleaned_DS_jobs.csv) and we a
 - Create a reference of the raw data and Rename the reference with “Sal By Role Size ref”
 - Create a reference of the raw data and Rename the reference with “Sal By State ref”
 - View dependencies and References of the QUERIES
+## Task Description:
+Company X would like to extract some useful information from the UnclenedDSJObs csv taken
+from a Job Posting site available in Kaggle. There are a lot of columns available but focus only
+on generating insights that will answer the ff: questions
+1. exWhich Job Roles pay the highest and least
+2. What size companies pay the best
+3. Where Job Roles or Job Titles pay the best and least in a specific state
 ## Here's the screenshot of my output before doing Cleaning and Transformation (See screenshot)
 ![Sample Output](images/BEFORE.png)
 ## Here's the screenshots of my final output (See screenshots)
-- Sal by Role Type
+- **Sal by Role Type**
 ![Sample Output](images/Roletype.png)
-- Sal by Size
+- **Sal by Size**
 ![Sample Output](images/SIZE.png)
-- Sal by Size Role Type
+- **Sal by Size Role Type**
 ![Sample Output](images/SizeRT.png)
-- Sal by State
+- **Sal by State**
 ![Sample Output](images/STATE.png)
-## Here's the Physical Data Model
+## Here's the Query Dependencies
 ![Sample Output](images/QueryDependencies.png)
