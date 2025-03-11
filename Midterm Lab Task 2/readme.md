@@ -1,6 +1,6 @@
 # Midterm Lab task 2 - Data Cleaning and Transformation using POWER QUERY
 For this task, we are given raw data from Excel (Uncleaned_DS_jobs.csv) and we are Task to perform Data Cleaning and Transformation using POWER QUERY 
-## Data Cleaning Process
+## Data Cleaning and Transformation
 - Load the raw file
 - Duplicate the raw data
 - In the Salary Estimate Column, remove all the characters after the open parenthesis. Create 2 new columns: Min Sal and Max Sal.
