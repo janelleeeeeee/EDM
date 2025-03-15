@@ -10,4 +10,4 @@ Hi, I’m Janelle Bognot, a BS Information Systems student. I am interested in t
 ## Project Links
 - Midterm Lab Task 1 [Data Cleaning and Preparation using EXCEL](https://github.com/janelleeeeeee/EDM/tree/73c8796a77ec8dc7df3937e500c37101d954b6c0/Midterm%20Task%201)
 - Midterm Lab Task 2 [Data Cleaning and Transformation using POWER QUERY](https://github.com/janelleeeeeee/EDM/tree/543c70b15a008b450680531628cf5415fc5be292/Midterm%20Lab%20Task%202)
-- Midterm Lab Task 3 [Creating Pivot Tables and Charts]()
+- Midterm Lab Task 3 [Creating Pivot Tables and Charts](Midterm%20Lab%20Task%203)
