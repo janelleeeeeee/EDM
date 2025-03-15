@@ -18,7 +18,7 @@ appealing and presentable
 7. The dashboard below is not yet complete you need to finished it and provide all the necessary
 VISUALS/Reports stated under number 2.
 8. The Slicers should make your Dashboard interactive
-## Here's the screenshot of my final output (See screenshots)
+## Here's the screenshot of my final output (See screenshot)
 ![Sample Output](images/dashboard.png)
-## Here's the screenshot of MAP (See screenshots)
+## Here's the screenshot of MAP (See screenshot)
 ![Sample Output](images/map.png)
