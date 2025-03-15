@@ -4,12 +4,12 @@ For this task, we are using the worksheet on Uncleaned DS Jobs and we are tasked
 1. Using the Worksheet on Uncleaned DS Jobs and the transform tables
 a. Sal By Role, Sal By State, Sal by Size
 2. Design your DASHBOARD that would highlight the ff:
-  a. State with the most Number of Data Science
-  b. Job Role with the Highest Average Salary (Complete the dashboard as shown below)
-  c. Which Company Size pays the Highest(Complete the dashboard as shown below)
-  d. Which Sector Employs the Lowest and Highest Data Science related Jobs
-  e. Which Sector has the Minimum Average Salary and Maximum average Salary
-  i. Note, you need to create another query to create a PIVOT Table for d and e
+- a. State with the most Number of Data Science
+- b. Job Role with the Highest Average Salary (Complete the dashboard as shown below)
+- c. Which Company Size pays the Highest(Complete the dashboard as shown below)
+- d. Which Sector Employs the Lowest and Highest Data Science related Jobs
+- e. Which Sector has the Minimum Average Salary and Maximum average Salary
+- f. Note, you need to create another query to create a PIVOT Table for d and e
 5. Do the necessary Pivot Table, and appropriate charts for the necessary reports as shown
 6. Insert Slicers for Role Type, Size and State
 7. You may insert MAP if your Excel version has one (See sample map)
