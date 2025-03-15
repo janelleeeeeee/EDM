@@ -1,4 +1,4 @@
-## EDM-Portfolio-Janelle
+## EDM-Portfolio
 This portfolio will contain copies of my Enterprise Data Management Lab Exercises
 ## About Me
 Hi, I’m Janelle Bognot, a BS Information Systems student. I am interested in technology and how it can be used to solve real-world problems. I’m eager to learn and gain practical experience in system development, data management, and IT solutions. Through my studies, I am developing skills in programming, database management, and project management. I am constantly searching for opportunities to grow, improve, and apply my knowledge in meaningful ways.
