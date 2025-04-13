@@ -36,5 +36,5 @@
 ![Sample Output](images/TS_TASK5.png)
 ## Here's the ER Diagram or Relational schema 
 ![Sample Output](images/ERD.png)
-## Sql copy of the database and table sturctures
+## Sql copy of the database and table structures
 ![Sample Output](images/sql_copy.sql)
