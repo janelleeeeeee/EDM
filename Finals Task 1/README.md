@@ -37,4 +37,4 @@
 ## Here's the ER Diagram or Relational schema 
 ![Sample Output](images/ERD.png)
 ## Sql copy of the database and table structures
-![Sample Output](images/sql_copy.sql)
+![Sql copy of the database and table sturctures](images/sql_copy.sql)
