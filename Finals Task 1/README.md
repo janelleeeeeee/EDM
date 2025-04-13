@@ -35,6 +35,6 @@
 
 ![Sample Output](images/TS_TASK5.png)
 ## Here's the ER Diagram or Relational schema 
-![Sample Output](images/Normalization.png)
+![Sample Output](images/ERD.png)
 ## Sql copy of the database and table sturctures
 
