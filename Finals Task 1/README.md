@@ -4,7 +4,7 @@
 
 ## Here's the screenshot of Query Statements (See screenshot)
 - TASK 1
-![Sample Output](images/Before.png)
+![Sample Output](images/QS_TASK1.png)
 - TASK 2
 ![Sample Output](images/Before.png)
 - TASK 3
